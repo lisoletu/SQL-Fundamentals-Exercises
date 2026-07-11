@@ -1,6 +1,6 @@
 -- Databricks notebook source
-USE company_db.employee_data;
-
+--Running the full tables before analysis to see what I have in my data
+--------------------------------------------------------------------------
 SELECT *
 FROM employees;
 
