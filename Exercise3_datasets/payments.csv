@@ -1,0 +1,6 @@
+payment_id,amount,payment_method
+1,50.0,Card
+2,200.0,Cash
+3,150.0,Card
+4,75.0,PayPal
+5,300.0,Cash
