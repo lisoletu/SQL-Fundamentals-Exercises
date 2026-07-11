@@ -2,12 +2,12 @@
 --Running the full tables before analysis to see what I have in my data
 --------------------------------------------------------------------------
 SELECT *
-FROM employees;
+FROM company_db.employee_data.employees;
 
 --1. SELECT Statement
 ---------------------------------------
 SELECT *
-FROM employees;
+FROM company_db.employee_data.employees;
 
 --2. SELECT DISTINCT Statement
 ----------------------------------------
