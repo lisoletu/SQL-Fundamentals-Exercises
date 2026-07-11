@@ -1,2 +1,9 @@
 -- Databricks notebook source
-select * from company_db.employee_data.employees;
+USE company_db.employee_data;
+
+SELECT *
+FROM employees;
+
+--1. SELECT Statement--
+
+
