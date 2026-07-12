@@ -24,7 +24,7 @@ This folder contains:
 This folder contains:
 
 * Exercise 3: SQL CASE Statements (PDF)
-* CSV dataset used for the exercise
+* CSV datasets used for the exercise
 * SQL solution script
 
 ### 📁 Updated_exercises
