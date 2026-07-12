@@ -10,7 +10,7 @@ The repository includes exercise PDFs, supporting CSV datasets, SQL solution scr
 
 ## Repository Contents
 
-### 📁 Exercise_1_2_Practice
+### 📁 Exercise1&2_Prac_Questions
 
 This folder contains:
 
@@ -19,7 +19,7 @@ This folder contains:
 * CSV dataset used for both exercises
 * SQL solution scripts for Exercises 1 and 2
 
-### 📁 Exercise_3_Practice
+### 📁 Exercise3_Prac_Questions
 
 This folder contains:
 
@@ -27,7 +27,7 @@ This folder contains:
 * CSV dataset used for the exercise
 * SQL solution script
 
-### 📁 Updated_exercises
+### 📁 Updated_Exercises
 
 This folder contains:
 
@@ -48,10 +48,29 @@ This folder contains:
 * NOT
 * IN
 * Aggregate Functions
+
+  * COUNT()
+  * SUM()
+  * AVG()
+  * MIN()
+  * MAX()
 * GROUP BY
 * HAVING
 * CASE Statements
 * NULL Functions
+
+---
+
+## Skills Demonstrated
+
+* Writing SQL queries
+* Filtering and sorting data
+* Using aggregate functions
+* Grouping and summarizing data
+* Applying conditional logic with CASE statements
+* Handling NULL values
+* Working with CSV datasets
+* Organizing SQL projects using GitHub
 
 ---
 
@@ -63,9 +82,6 @@ This folder contains:
 
 ---
 
-## Author
+## Purpose
 
-**Lisoletu Digala**
-
-Aspiring Data Analyst
-
+This repository documents my SQL practice and demonstrates my understanding of fundamental SQL concepts, query writing, and data analysis techniques while building practical experience with Databricks and GitHub.
