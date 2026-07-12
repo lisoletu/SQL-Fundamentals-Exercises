@@ -10,7 +10,7 @@ The repository includes exercise PDFs, supporting CSV datasets, SQL solution scr
 
 ## Repository Contents
 
-### 📁 Exercise1&2_Prac_Questions
+### 📁 Exercise_1_2_Practice
 
 This folder contains:
 
@@ -19,7 +19,7 @@ This folder contains:
 * CSV dataset used for both exercises
 * SQL solution scripts for Exercises 1 and 2
 
-### 📁 Exercise3_Prac_Questions
+### 📁 Exercise_3_Practice
 
 This folder contains:
 
@@ -27,7 +27,7 @@ This folder contains:
 * CSV dataset used for the exercise
 * SQL solution script
 
-### 📁 Updated_Exercises
+### 📁 Updated_exercises
 
 This folder contains:
 
