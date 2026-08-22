@@ -58,6 +58,7 @@ This folder contains:
 * HAVING
 * CASE Statements
 * NULL Functions
+* DATE Functions
 
 ---
 
@@ -69,6 +70,7 @@ This folder contains:
 * Grouping and summarizing data
 * Applying conditional logic with CASE statements
 * Handling NULL values
+* Using DATE Functions
 * Working with CSV datasets
 * Organizing SQL projects using GitHub
 
