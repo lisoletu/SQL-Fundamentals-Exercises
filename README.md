@@ -34,6 +34,8 @@ This folder contains:
 * Updated exercise PDFs
 * Handwritten SQL solutions
 
+
+SQL Fundamentals Handwritten Notes
 ---
 
 ## SQL Topics Covered
