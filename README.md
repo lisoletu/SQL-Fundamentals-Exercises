@@ -3,7 +3,6 @@
 ## Overview
 
 This repository contains my SQL practice exercises and solutions completed as part of my Data Analytics learning journey.
-
 The repository includes exercise PDFs, supporting CSV datasets, SQL solution scripts, handwritten SQL solutions for updated exercises as well as SQL fundamentals handwritten notes.
 
 ---
