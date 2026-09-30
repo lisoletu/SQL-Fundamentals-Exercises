@@ -1,4 +1,4 @@
-# SQL Fundamentals Practice
+# SQL Fundamentals Exercises
 
 ## Overview
 
