@@ -2,89 +2,114 @@
 
 ## Overview
 
-This repository contains my SQL practice exercises and solutions completed as part of my Data Analytics learning journey.
-The repository includes exercise PDFs, supporting CSV datasets, SQL solution scripts, handwritten SQL solutions for updated exercises as well as SQL fundamentals handwritten notes.
+This repository contains my SQL practice exercises, research, notes, and solutions completed as part of my Data Analytics learning journey.
+
+The repository demonstrates my development of SQL fundamentals, practical query-writing skills, data analysis techniques, and exposure to data agents.
 
 ---
 
 ## Repository Contents
 
-### 📁 Practice Exercise 1&2 
+### 📁 Practice Exercise 1 & 2
 
 This folder contains:
 
-* Exercise 1: SQL Fundamentals (PDF)
-* Exercise 2: Aggregate Functions & Grouping (PDF)
-* CSV dataset used for both exercises
-* SQL solution scripts for Exercises 1 and 2
+- Exercise 1: SQL Fundamentals (PDF)
+- Exercise 2: Aggregate Functions & Grouping (PDF)
+- CSV datasets used for the exercises
+- SQL solution scripts for Exercises 1 and 2
 
 ### 📁 Practice Exercise 3
 
 This folder contains:
 
-* Exercise 3: SQL CASE Statements (PDF)
-* CSV datasets used for the exercise
-* SQL solution script
+- Exercise 3: SQL CASE Statements (PDF)
+- CSV datasets used for the exercise
+- SQL solution script
 
-### 📁 Updated_exercises
+### 📁 Updated Exercises
 
 This folder contains:
 
-* Updated exercise PDFs
-* Handwritten SQL solutions
+- Updated exercise PDFs
+- Handwritten SQL solutions
 
+### 📝 SQL Fundamentals Notes
 
-SQL Fundamentals Handwritten Notes
+This section contains my handwritten notes covering key SQL concepts and fundamentals.
+
+### 📚 SQL Fundamentals Research Assignment
+
+This section contains research and written work covering SQL fundamentals and related data analytics concepts.
+
+### 🤖 Data Agents Task
+
+This section contains my completed task exploring data agents and their application within data analytics workflows.
+
 ---
 
 ## SQL Topics Covered
 
-* SELECT
-* DISTINCT
-* WHERE
-* ORDER BY
-* LIMIT
-* AND
-* OR
-* NOT
-* IN
-* Aggregate Functions
-
-  * COUNT()
-  * SUM()
-  * AVG()
-  * MIN()
-  * MAX()
-* GROUP BY
-* HAVING
-* CASE Statements
-* NULL Functions
-* DATE Functions
+- `SELECT`
+- `DISTINCT`
+- `WHERE`
+- `ORDER BY`
+- `LIMIT`
+- `AND`
+- `OR`
+- `NOT`
+- `IN`
+- Aggregate Functions
+  - `COUNT()`
+  - `SUM()`
+  - `AVG()`
+  - `MIN()`
+  - `MAX()`
+- `GROUP BY`
+- `HAVING`
+- `CASE` Statements
+- NULL Functions
+- DATE Functions
 
 ---
 
 ## Skills Demonstrated
 
-* Writing SQL queries
-* Filtering and sorting data
-* Using aggregate functions
-* Grouping and summarizing data
-* Applying conditional logic with CASE statements
-* Handling NULL values
-* Using DATE Functions
-* Working with CSV datasets
-* Organizing SQL projects using GitHub
+- Writing SQL queries
+- Filtering and sorting data
+- Using aggregate functions
+- Grouping and summarising data
+- Applying conditional logic with `CASE` statements
+- Handling NULL values
+- Working with DATE functions
+- Working with CSV datasets
+- Conducting technical research
+- Documenting technical concepts
+- Exploring data-agent concepts
+- Organising projects using GitHub
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
-* SQL
-* Databricks
-* GitHub
+- SQL
+- Databricks
+- GitHub
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
-This repository documents my SQL practice and demonstrates my understanding of fundamental SQL concepts, query writing, and data analysis techniques while building practical experience with Databricks and GitHub.
+This repository documents my ongoing SQL learning and development as a Data Analyst.
+
+It demonstrates both **practical SQL application and theoretical understanding**, from fundamental query writing and data manipulation to research, documentation, and exploration of emerging data analytics concepts.
+
+---
+
+## 👩🏽‍💻 Author
+
+**Lisoletu Digala**
+
+**Data Analyst | SQL | Databricks | Excel | Power BI**
+
+*Dedicated to continuous learning, data-driven problem solving, and developing practical analytics skills.*
